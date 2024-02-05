@@ -1,0 +1,1 @@
+{"version":3,"file":"commonHelpers.js","sources":["../src/js/index.js"],"sourcesContent":["class User {\n  constructor(name) {\n    this.name = name;\n  }\n}\n\nconst user = new User('Vita');\n\nconsole.log(user);\n"],"names":["User","name","user"],"mappings":"ssBAAA,MAAMA,CAAK,CACT,YAAYC,EAAM,CAChB,KAAK,KAAOA,CACb,CACH,CAEA,MAAMC,EAAO,IAAIF,EAAK,MAAM,EAE5B,QAAQ,IAAIE,CAAI"}
